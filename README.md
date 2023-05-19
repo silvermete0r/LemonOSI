@@ -69,7 +69,7 @@
 [issues-shield]: https://img.shields.io/github/issues/silvermete0r/LemonOSI.svg?style=flat-square
 [issues-url]: https://github.com/silvermete0r/LemonOSI/issues
 [license-shield]: https://img.shields.io/github/license/silvermete0r/LemonOSI.svg?style=flat-square
-[license-url]: https://github.com/silvermete0r/Comparison-Effectiveness-of-ML-Algorithms-Predicting-Stock-Prices-KZ-banks/blob/ba884c1650b4b127c35d621d69b4107b3409225b/license
+[license-url]: https://github.com/silvermete0r/LemonOSI/license
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/arman-zhalgasbayev/
 [demonstration-screenshot]: https://sun9-48.userapi.com/impg/rTUApjRpub5vsemEhTIj74lbYdIvBmzcmU7b6g/grwB9UNrl2Q.jpg?size=2239x1261&quality=95&sign=5ed3c86dadc504ac186520df7eea47da&type=album
