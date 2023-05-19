@@ -3,10 +3,10 @@
 #include <DHT_U.h>
 #include <ESP8266WiFi.h>
  
-String apiKey = "03N7TZJVN4XWIMIX";     // API key from ThingSpeak
+String apiKey = "YOUR_API_KEY";     // API key from ThingSpeak
  
-const char *ssid =  "AstanaIT";     // Wi-Fi ssid and WPA2 key
-const char *pass =  "astanait";
+const char *ssid =  "YOUR_SSID";     // Wi-Fi ssid and WPA2 key
+const char *pass =  "YOUR_PASS";
 const char* server = "api.thingspeak.com";
  
 #define DHTPIN D1         // Pin where the dht11 is connected
