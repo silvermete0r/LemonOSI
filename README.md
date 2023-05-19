@@ -30,6 +30,7 @@
  - *Telebot*
  - *Flask*
  - *PyTesseract*
+ - *Arduino IDE with Libraries*
  
  ⚙️ Download tesseract here: https://github.com/UB-Mannheim/tesseract/wiki & install pytesseract using:  `pip3 install pytesseract`
 
